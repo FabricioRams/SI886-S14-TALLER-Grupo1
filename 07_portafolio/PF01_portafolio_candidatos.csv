@@ -1,0 +1,17 @@
+codigo,nombre,fuente_admisible,seccion_peti,objetivos_asociados,categoria_estrategica
+PR-01,Sistema Integrado de Trazabilidad de Lotes (Reemplazo Access),Brecha de arquitectura,Sección 5.4.2 PT-01,"OD-01, OD-02",Transformar
+PR-02,Registro de Actividades de Tratamiento y Cumplimiento LPDP,Obligación normativa,Sección 4.1.5,"OD-05",Operar
+PR-03,Integración Balanza-Planta-ERP y Capa de Servicios,Brecha de arquitectura,Sección 5.4.2 PT-02,"OD-01, OD-03",Transformar
+PR-04,Portal Digital de Documentación de Exportación y Clientes B2B,Brecha de servicio digital,Sección 6.1.7 S-01,"OD-01, OD-03",Crecer
+PR-05,Portal de Acopio y Liquidación para Productores Asociados,Brecha de servicio digital,Sección 6.1.7 S-02,"OD-03",Crecer
+PR-06,Telemetría de Riego Tecnificado e Integración Hídrica (ANA),Estrategia FODA,Sección 3.5 E-02,"OD-02, OD-05",Crecer
+PR-07,Tablero de Control Gerencial de Campaña y Costos (BI),Brecha de arquitectura,Sección 5.4.2 PT-04,"OD-02",Crecer
+PR-08,Mesa de Servicio de TI e Inventario de Activos (ITIL),Brecha de capacidad,Sección 4.3.5 DSS02,"OD-04",Operar
+PR-09,Respaldo Inmutable 3-2-1 y Continuidad de Sistemas de Planta,Brecha de capacidad,Sección 4.3.5 DSS04,"OD-04, OD-05",Operar
+PR-10,Renovación y Segregación de Roles del ERP On-Premise,Estrategia FODA,Sección 3.5 E-04,"OD-04",Operar
+PR-11,Adecuación de Seguridad (2FA) y Política de Seguridad de TI,Obligación normativa,Sección 4.1.5,"OD-05",Operar
+PR-12,Gestión del Conocimiento Técnico y Capacitación en Seguridad,Estrategia FODA,Sección 3.5 E-06,"OD-06",Operar
+PR-13,Comité de Gobierno de TI y Marco de Inversiones (EDM02/APO05),Brecha de capacidad,Sección 4.3.5 EDM01,"OD-02, OD-04",Operar
+PR-14,Monitoreo Proactivo de Red Enlaces y Servidor de Planta,Brecha de línea base,Sección 6.1.5,"OD-04",Operar
+PR-15,Portal de Autoservicio de Trabajadores y Campaña (380 temp.),Brecha de servicio digital,Sección 6.1.7 S-05,"OD-01",Crecer
+

@@ -1,0 +1,13 @@
+codigo,contribucion,beneficio,habilitacion,urgencia,impacto_social_ambiental,riesgo_no_hacer,facilidad,aceptacion,puntaje,nombre,tco_5,inv_inicial,meses,impacto,esfuerzo,cuadrante
+PR-01,5,4,5,5,4,5,3,4,4.55,Sistema Integrado de Trazabilidad de Lotes (Reemplazo Access),140500,82500,6,4.6,3,① Ganancia rápida
+PR-13,5,3,4,4,3,5,5,5,4.12,Comité de Gobierno de TI y Marco de Inversiones (EDM02/APO05),19000,11000,2,4.2,1,① Ganancia rápida
+PR-03,5,4,5,4,3,4,2,3,4.1,Integración Balanza-Planta-ERP y Capa de Servicios,155000,91000,6,4.25,4,② Apuesta mayor
+PR-04,5,5,2,4,3,4,2,4,3.88,Portal Digital de Documentación de Exportación y Clientes B2B,121500,67500,5,4.5,4,② Apuesta mayor
+PR-06,4,4,2,3,5,4,3,4,3.64,Telemetría de Riego Tecnificado e Integración Hídrica (ANA),85500,47500,4,4.15,3,① Ganancia rápida
+PR-10,4,3,3,4,2,5,2,3,3.38,Renovación y Segregación de Roles del ERP On-Premise,122000,66000,5,3.65,4,② Apuesta mayor
+PR-07,4,4,1,3,3,3,3,3,3.1,Tablero de Control Gerencial de Campaña y Costos (BI),78000,42800,4,3.65,3,① Ganancia rápida
+PR-08,3,3,3,3,2,4,4,4,3.08,Mesa de Servicio de TI e Inventario de Activos (ITIL),53000,28200,3,3.05,2,③ Relleno
+PR-12,3,2,2,3,4,3,4,4,2.89,Gestión del Conocimiento Técnico y Capacitación en Seguridad,30000,17200,3,2.9,2,③ Relleno
+PR-14,3,2,2,3,2,4,4,4,2.75,Monitoreo Proactivo de Red Enlaces y Servidor de Planta,50000,26800,3,2.8,2,③ Relleno
+PR-05,3,3,1,2,4,2,2,2,2.49,Portal de Acopio y Liquidación para Productores Asociados,137000,77000,6,2.95,4,④ Sumidero
+PR-15,2,3,1,2,4,2,2,3,2.32,Portal de Autoservicio de Trabajadores y Campaña (380 temp.),112000,60800,5,2.55,4,④ Sumidero

@@ -1,0 +1,17 @@
+codigo,nombre,costo_unico,costo_anual,inv_inicial,tco_5,meses
+PR-01,Sistema Integrado de Trazabilidad de Lotes (Reemplazo Access),68000,14500,82500,140500,6
+PR-02,Registro de Actividades de Tratamiento y Cumplimiento LPDP,18000,4500,22500,40500,3
+PR-03,Integración Balanza-Planta-ERP y Capa de Servicios,75000,16000,91000,155000,6
+PR-04,Portal Digital de Documentación de Exportación y Clientes B2B,54000,13500,67500,121500,5
+PR-05,Portal de Acopio y Liquidación para Productores Asociados,62000,15000,77000,137000,6
+PR-06,Telemetría de Riego Tecnificado e Integración Hídrica (ANA),38000,9500,47500,85500,4
+PR-07,Tablero de Control Gerencial de Campaña y Costos (BI),34000,8800,42800,78000,4
+PR-08,Mesa de Servicio de TI e Inventario de Activos (ITIL),22000,6200,28200,53000,3
+PR-09,Respaldo Inmutable 3-2-1 y Continuidad de Sistemas de Planta,42000,11500,53500,99500,4
+PR-10,Renovación y Segregación de Roles del ERP On-Premise,52000,14000,66000,122000,5
+PR-11,Adecuación de Seguridad (2FA) y Política de Seguridad de TI,24000,6800,30800,58000,4
+PR-12,Gestión del Conocimiento Técnico y Capacitación en Seguridad,14000,3200,17200,30000,3
+PR-13,Comité de Gobierno de TI y Marco de Inversiones (EDM02/APO05),9000,2000,11000,19000,2
+PR-14,Monitoreo Proactivo de Red Enlaces y Servidor de Planta,21000,5800,26800,50000,3
+PR-15,Portal de Autoservicio de Trabajadores y Campaña (380 temp.),48000,12800,60800,112000,5
+

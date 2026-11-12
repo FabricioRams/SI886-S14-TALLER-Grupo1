@@ -1,0 +1,15 @@
+Proyecto,Ola,Año,Semestre,Inicio,Fin,Duración (meses),Depende de,Hito de decisión,Área usuaria afectada
+PR-13,Ola 1 — Fundacional y Cumplimiento,Año 1,S1,1,2,2,-,H1: Instalación Comité de TI,Gerencia / Administración y Finanzas
+PR-09,Ola 1 — Fundacional y Cumplimiento,Año 1,S1,1,4,4,-,H1: Respaldo 3-2-1 probado,TI / Planta
+PR-02,Ola 1 — Fundacional y Cumplimiento,Año 1,S1,2,4,3,-,H1: Registro LPDP aprobado,RR.HH. / Legal
+PR-11,Ola 1 — Fundacional y Cumplimiento,Año 1,S2,5,8,4,-,H1: Política y 2FA activos,Toda la empresa / TI
+PR-01,Ola 1 — Fundacional y Cumplimiento,Año 1,S2,6,11,6,PR-09,H1: Trazabilidad en producción,Planta y Control de Calidad
+PR-08,Ola 1 — Fundacional y Cumplimiento,Año 1,S2,9,11,3,-,H1: Mesa TI e inventario al día,TI / Usuarios internos
+PR-10,Ola 2 — Habilitación e Integración,Año 2,S1,13,17,5,PR-11;PR-13,H2: Roles ERP segregados,Almacén y Compras / Contabilidad
+PR-03,Ola 2 — Habilitación e Integración,Año 2,S1,13,18,6,PR-01,H2: Balanza-Planta-ERP en línea,Planta y Balanza
+PR-14,Ola 2 — Habilitación e Integración,Año 2,S1,14,16,3,PR-08,H2: Monitoreo NOC activo,TI
+PR-12,Ola 2 — Habilitación e Integración,Año 2,S2,19,21,3,-,H2: Base conocimiento y capacitación,Toda la empresa / TI
+PR-06,Ola 2 — Habilitación e Integración,Año 2,S2,19,22,4,PR-09,H2: Telemetría ANA integrada,Campo y Riego
+PR-04,Ola 3 — Explotación y Valor Digital,Año 3,S1,25,29,5,PR-01;PR-03,H3: Portal B2B Exportación activo,Comercio Exterior / Ventas
+PR-07,Ola 3 — Explotación y Valor Digital,Año 3,S2,30,33,4,PR-01;PR-03,H3: Tablero BI Gerencial y Cierre PETI,Gerencia / Finanzas
+

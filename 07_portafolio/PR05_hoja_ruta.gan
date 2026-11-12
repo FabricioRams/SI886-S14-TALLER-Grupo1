@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="PETI Hoja de Ruta - AGROEXPORTADORA VALLE VIEJO S.A.C." company="Agroexportadora Valle Viejo S.A.C." webLink="https://github.com/FabricioRams/SI886-S14-TALLER-Grupo1" view-date="2027-01-01" view-index="0" gantt-divider-location="420" resource-divider-location="300" version="3.2.3230" locale="es">
+    <description><![CDATA[Hoja de ruta plurianual del PETI (36 meses, 3 olas) para Agroexportadora Valle Viejo S.A.C.]]></description>
+    <view zooming-state="default:8" id="gantt-chart"/>
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+        </taskproperties>
+        <task id="100" name="Ola 1 — Fundacional y Cumplimiento (Año 1)" color="#1e3a8a" meeting="false" start="2027-01-04" duration="240" complete="0" expand="true">
+            <task id="13" name="PR-13 Comité de Gobierno de TI (EDM02/APO05)" color="#1e3a8a" meeting="false" start="2027-01-04" duration="40" complete="0" expand="true">
+                <depend id="10" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="9" name="PR-09 Respaldo Inmutable 3-2-1 y Continuidad Planta [NN]" color="#dc2626" meeting="false" start="2027-01-04" duration="80" complete="0" expand="true">
+                <depend id="1" type="2" difference="0" hardness="Strong"/>
+                <depend id="6" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="2" name="PR-02 Registro Actividades Tratamiento LPDP [NN]" color="#dc2626" meeting="false" start="2027-02-01" duration="60" complete="0" expand="true"/>
+            <task id="901" name="Plazo Límite Continuidad SENASA-UE (Q1)" color="#dc2626" meeting="true" start="2027-04-30" duration="0" complete="0" expand="true"/>
+            <task id="11" name="PR-11 Seguridad 2FA y Política de Seguridad TI [NN]" color="#dc2626" meeting="false" start="2027-05-03" duration="80" complete="0" expand="true">
+                <depend id="10" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="902" name="Plazo Límite Normativo LPDP (Q2)" color="#dc2626" meeting="true" start="2027-08-31" duration="0" complete="0" expand="true"/>
+            <task id="1" name="PR-01 Sistema Integrado Trazabilidad de Lotes (Access)" color="#1e3a8a" meeting="false" start="2027-06-01" duration="120" complete="0" expand="true">
+                <depend id="3" type="2" difference="0" hardness="Strong"/>
+                <depend id="4" type="2" difference="0" hardness="Strong"/>
+                <depend id="7" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="8" name="PR-08 Mesa de Servicio e Inventario Activos ITIL" color="#1e3a8a" meeting="false" start="2027-09-01" duration="60" complete="0" expand="true">
+                <depend id="14" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="911" name="H1 — Hito Decisión Cierre Ola 1" color="#b91c1c" meeting="true" start="2027-12-20" duration="0" complete="0" expand="true"/>
+        </task>
+        <task id="200" name="Ola 2 — Habilitación e Integración (Año 2)" color="#0284c7" meeting="false" start="2028-01-03" duration="240" complete="0" expand="true">
+            <task id="10" name="PR-10 Renovación y Segregación Roles ERP" color="#0284c7" meeting="false" start="2028-01-03" duration="100" complete="0" expand="true"/>
+            <task id="3" name="PR-03 Integración Balanza-Planta-ERP y APIs" color="#0284c7" meeting="false" start="2028-01-03" duration="120" complete="0" expand="true">
+                <depend id="4" type="2" difference="0" hardness="Strong"/>
+                <depend id="7" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="14" name="PR-14 Monitoreo Proactivo Red y Servidor Planta" color="#0284c7" meeting="false" start="2028-02-01" duration="60" complete="0" expand="true"/>
+            <task id="12" name="PR-12 Gestión Conocimiento y Capacitación Seguridad" color="#0284c7" meeting="false" start="2028-07-03" duration="60" complete="0" expand="true"/>
+            <task id="6" name="PR-06 Telemetría Riego Tecnificado e Integración ANA" color="#0284c7" meeting="false" start="2028-07-03" duration="80" complete="0" expand="true"/>
+            <task id="912" name="H2 — Hito Decisión Cierre Ola 2" color="#b91c1c" meeting="true" start="2028-12-20" duration="0" complete="0" expand="true"/>
+        </task>
+        <task id="300" name="Ola 3 — Explotación y Valor Digital (Año 3)" color="#059669" meeting="false" start="2029-01-03" duration="200" complete="0" expand="true">
+            <task id="4" name="PR-04 Portal Digital Documentación Exportación B2B" color="#059669" meeting="false" start="2029-01-03" duration="100" complete="0" expand="true"/>
+            <task id="7" name="PR-07 Tablero Gerencial Campaña y Costos (BI)" color="#059669" meeting="false" start="2029-06-01" duration="80" complete="0" expand="true"/>
+            <task id="913" name="H3 — Hito Cierre PETI y Medición Beneficios Ex-Post" color="#b91c1c" meeting="true" start="2029-11-30" duration="0" complete="0" expand="true"/>
+        </task>
+    </tasks>
+</project>
+

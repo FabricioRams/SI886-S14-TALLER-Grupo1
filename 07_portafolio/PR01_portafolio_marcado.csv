@@ -1,0 +1,16 @@
+codigo,nombre,fuente_admisible,seccion_peti,objetivos_asociados,categoria_estrategica,no_negociable,norma_nn,plazo_limite,fundamento_nn
+PR-01,Sistema Integrado de Trazabilidad de Lotes (Reemplazo Access),Brecha de arquitectura,Sección 5.4.2 PT-01,"OD-01, OD-02",Transformar,False,,,
+PR-02,Registro de Actividades de Tratamiento y Cumplimiento LPDP,Obligación normativa,Sección 4.1.5,OD-05,Operar,True,D.S. 016-2024-JUS / Ley 29733,2027-Q2 (Año 1 - S2),"Registro de actividades de tratamiento obligatorio para planilla (142), campaña (380) y productores"
+PR-03,Integración Balanza-Planta-ERP y Capa de Servicios,Brecha de arquitectura,Sección 5.4.2 PT-02,"OD-01, OD-03",Transformar,False,,,
+PR-04,Portal Digital de Documentación de Exportación y Clientes B2B,Brecha de servicio digital,Sección 6.1.7 S-01,"OD-01, OD-03",Crecer,False,,,
+PR-05,Portal de Acopio y Liquidación para Productores Asociados,Brecha de servicio digital,Sección 6.1.7 S-02,OD-03,Crecer,False,,,
+PR-06,Telemetría de Riego Tecnificado e Integración Hídrica (ANA),Estrategia FODA,Sección 3.5 E-02,"OD-02, OD-05",Crecer,False,,,
+PR-07,Tablero de Control Gerencial de Campaña y Costos (BI),Brecha de arquitectura,Sección 5.4.2 PT-04,OD-02,Crecer,False,,,
+PR-08,Mesa de Servicio de TI e Inventario de Activos (ITIL),Brecha de capacidad,Sección 4.3.5 DSS02,OD-04,Operar,False,,,
+PR-09,Respaldo Inmutable 3-2-1 y Continuidad de Sistemas de Planta,Brecha de capacidad,Sección 4.3.5 DSS04,"OD-04, OD-05",Operar,True,Continuidad crítica / Exigencia SENASA-UE,2027-Q1 (Año 1 - S1),Incidente 2024: pérdida del maestro Access sin respaldo; PC de planta y ERP sin respaldo verificado
+PR-10,Renovación y Segregación de Roles del ERP On-Premise,Estrategia FODA,Sección 3.5 E-04,OD-04,Operar,False,,,
+PR-11,Adecuación de Seguridad (2FA) y Política de Seguridad de TI,Obligación normativa,Sección 4.1.5,OD-05,Operar,True,Ley 29733 art. 9 / D.S. 016-2024-JUS,2027-Q2 (Año 1 - S2),"Cuentas admin compartidas, sin 2FA y política de seguridad en borrador hace 2 años"
+PR-12,Gestión del Conocimiento Técnico y Capacitación en Seguridad,Estrategia FODA,Sección 3.5 E-06,OD-06,Operar,False,,,
+PR-13,Comité de Gobierno de TI y Marco de Inversiones (EDM02/APO05),Brecha de capacidad,Sección 4.3.5 EDM01,"OD-02, OD-04",Operar,False,,,
+PR-14,Monitoreo Proactivo de Red Enlaces y Servidor de Planta,Brecha de línea base,Sección 6.1.5,OD-04,Operar,False,,,
+PR-15,Portal de Autoservicio de Trabajadores y Campaña (380 temp.),Brecha de servicio digital,Sección 6.1.7 S-05,OD-01,Crecer,False,,,
